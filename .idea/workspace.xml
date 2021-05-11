@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aac4a19f-5135-4a50-8a02-f096a2bf32be" name="Default Changelist" comment="new theme">
-      <change beforePath="$PROJECT_DIR$/nielswestphal/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0b/4842ab6db36fe6ed779a2d5d1e5b2f96e483376f28fbc96415ea78e4d9e662" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4e/fca0d10c5feb8e9b35eb1d994f2905bb71714e6a271f511d713b539ea5faa1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/4f/b9713c4ffc94138ed7c07809bba8910d08e4ee493628e443fc83ad5134c1df" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/63/7e252fa8460c2278df772e6dfbf4934329e2f03a9174070b70d0883886b435" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/64/415bb89c72690689066a644c02dc1765220435c5afc43641ea8ae770a61c01" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ca/b8b278c7e75237af7ad8243b9c3bcb930892a05977cdc36c8f5e36f4599f7b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e8/5c06a062afbbf3b77f98822db8ac4c3006e166b55bf5e0e13932cb0edd8194" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/fd/aa4200cef2544ec568b25970b3a49cf9b4f3d7015485506ccda914caf9c5b9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/_posts/2021-05-11-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/about.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/index.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +22,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -47,7 +33,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620746358080</updated>
-      <workItem from="1620746360715" duration="4350000" />
+      <workItem from="1620746360715" duration="5562000" />
     </task>
     <task id="LOCAL-00001" summary="new theme">
       <created>1620760699464</created>
@@ -56,7 +42,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620760699464</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new theme">
+      <created>1620761660984</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620761660984</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new theme">
+      <created>1620761665504</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620761665504</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
