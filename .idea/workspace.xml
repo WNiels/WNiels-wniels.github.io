@@ -1,57 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aac4a19f-5135-4a50-8a02-f096a2bf32be" name="Default Changelist" comment="gitignore">
+    <list default="true" id="aac4a19f-5135-4a50-8a02-f096a2bf32be" name="Default Changelist" comment="clean jekyll">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testpage.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/_includes/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/_includes/google-analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/_includes/projects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/assets/fonts/devicon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/assets/fonts/devicon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/assets/img/mountains.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/assets/img/skate.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/assets/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/assets/js/sweet-scroll.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/particle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/fonts/devicon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/fonts/devicon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/img/mountains.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/img/skate.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/styles/_about.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/styles/_animation.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/styles/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/styles/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/styles/_header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/styles/_projects.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/styles/_vars.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/styles/lib/_devicon.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/styles/lib/_fontawesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/styles/lib/_normalize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/src/styles/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nielswestphal/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-05-12-welcome-to-jekyll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -84,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620746358080</updated>
-      <workItem from="1620746360715" duration="12515000" />
+      <workItem from="1620746360715" duration="13551000" />
     </task>
     <task id="LOCAL-00001" summary="new theme">
       <created>1620760699464</created>
@@ -114,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620763039982</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="clean jekyll">
+      <created>1620833696337</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620833696337</updated>
+    </task>
+    <task id="LOCAL-00006" summary="clean jekyll">
+      <created>1620833759209</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620833759209</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +108,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new theme" />
     <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
+    <MESSAGE value="unversioned files added" />
+    <MESSAGE value="clean jekyll" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean jekyll" />
   </component>
 </project>
